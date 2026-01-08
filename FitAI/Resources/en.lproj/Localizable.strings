@@ -1,0 +1,41 @@
+/* English Localization */
+
+/* General */
+"app_name" = "FitAI";
+"continue" = "Continue";
+"save" = "Save";
+"cancel" = "Cancel";
+"delete" = "Delete";
+"edit" = "Edit";
+"done" = "Done";
+"next" = "Next";
+"back" = "Back";
+"close" = "Close";
+
+/* Tab Bar */
+"tab_home" = "Home";
+"tab_workouts" = "Workouts";
+"tab_meals" = "Meals";
+"tab_assistant" = "Assistant";
+"tab_tracking" = "Tracking";
+"tab_settings" = "Settings";
+
+/* Onboarding */
+"onboarding_welcome" = "Welcome to FitAI";
+"onboarding_subtitle" = "Your personal coach for muscle building";
+"onboarding_create_profile" = "Create my profile";
+
+/* Preferred workout days */
+"settings_preferred_days" = "Preferred days";
+"settings_optional" = "optional";
+"settings_preferred_days_desc" = "Workouts will be scheduled preferentially on these days";
+
+/* Days of week (short) */
+"day_sun" = "Sun";
+"day_mon" = "Mon";
+"day_tue" = "Tue";
+"day_wed" = "Wed";
+"day_thu" = "Thu";
+"day_fri" = "Fri";
+"day_sat" = "Sat";
+"home_view_meals" = "View my meals";

@@ -1,0 +1,97 @@
+# Xcode
+*.xcodeproj/**/xcuserdata/
+*.xcworkspace/**/xcuserdata/
+*.xcodeproj/**/project.xcworkspace/
+!*.xcodeproj/project.pbxproj
+*.xccheckout
+*.moved-aside
+DerivedData/
+*.hmap
+*.ipa
+*.dSYM.zip
+*.dSYM
+*.xcuserstate
+*.xcscmblueprint
+*.xcworkspace
+!default.xcworkspace
+
+# Build
+build/
+Build/
+*.build/
+
+# Swift Package Manager
+.build/
+.swiftpm/
+Package.resolved
+Packages/
+
+# CocoaPods
+Pods/
+Podfile.lock
+*.xcworkspace
+
+# Carthage
+Carthage/Build/
+Carthage/Checkouts/
+
+# Fastlane
+fastlane/report.xml
+fastlane/Preview.html
+fastlane/screenshots/**/*.png
+fastlane/test_output
+
+# Firebase
+GoogleService-Info.plist
+
+# API Keys & Secrets
+FitAI/Config.swift
+
+# Environment & Secrets
+.env
+.env.*
+*.pem
+*.p12
+*.key
+Secrets/
+
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+._*
+.Spotlight-V100
+.Trashes
+
+# IDE
+*.idea/
+*.vscode/
+*.swp
+*.swo
+*~
+
+# Temporary files
+*.tmp
+*.temp
+*.log
+
+# Archives
+*.zip
+*.tar.gz
+*.rar
+
+# Test results
+TestResults/
+*.xcresult
+
+# Playgrounds
+timeline.xctimeline
+playground.xcworkspace
+
+# Instruments
+*.trace
+
+# App Store Connect
+*.itmsp
+
+OpenAI_Credit_Request.md
